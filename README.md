@@ -1,1 +1,2 @@
-# Calculator-Download
+# Using the Calculator
+- install extensions listed 
